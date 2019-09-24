@@ -1,2 +1,2 @@
-﻿SystemUtil.Run "C:\Users\Nikhil\AppData\Local\Google\Chrome\Application\chrome.exe"
-SystemUtil.CloseProcessByName "chrome.exe"
+﻿SystemUtil.Run "C:\Program Files\Internet Explorer\iexplore.exe"
+SystemUtil.CloseProcessByName "iexplore.exe"
